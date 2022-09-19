@@ -1,6 +1,8 @@
 # SearchBlog
 카카오API를 사용한 블로그 검색 화면 만들기
-Blog
+
+
+## [사용한 기술]
 
 - Kingfisher  URL -> Image
 - RxSwift
@@ -14,7 +16,7 @@ Merge
 asSignal - emit
 
 
-[Point]  
+## [Point]  
 
  **bind()**  
 
